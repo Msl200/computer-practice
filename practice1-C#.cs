@@ -31,8 +31,10 @@ namespace ConsoleApp4
             //float Number2 = float.Parse(Console.ReadLine());
             //float Average=(Number1 + Number2)/2;
             //Console.WriteLine(Average);
-
+            //Console.ReadKey();
+            
             //Tamrin 3 
+            
             Console.WriteLine("Enter number 1");
             float Number1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Enter number 2");
